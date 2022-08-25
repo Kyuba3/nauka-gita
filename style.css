@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+}
+
+.page-header{
+    margin-left: 10px;
+    color: rgb(23, 26, 49);
+}
+
+.main-text{
+    display: flex;
+}
+
+.main-text p{
+    flex: 0 0 20%;
+    margin-left: 10px;
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 17px;
+}
