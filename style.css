@@ -1,5 +1,6 @@
 body{
     background-color: cadetblue;
+    text-align: center;
 }
 
 .page-header{
@@ -12,9 +13,10 @@ body{
 }
 
 .main-text p{
-    flex: 0 0 20%;
-    margin-left: 10px;
     color: #ffffff;
     line-height: 1.2;
     font-size: 17px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
